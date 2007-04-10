@@ -1,12 +1,12 @@
 === GoStats for Wordpress ===
 Contributors: rchmura
-Donate link: http://gostats.com.com/
+Donate link: http://gostats.com/
 Tags: web stats, hit counter, site stats, counter, stats
 Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 1.0
 
-Use the powerful GoStats counter and reportin engine in your blog easy to install.
+Use the powerful GoStats counter and reporting engine in your blog easy to install.
 
 == Description ==
 

@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: GoStats 
-Plugin URI: http://login.gostats.com
+Plugin URI: http://gostats.com
 Description: Add web tracking to your blog in seconds. 
-Version: 1.1
+Version: 1.2
 Author: Richard Chmura
 Author URI: http://gostats.com/
 */
@@ -41,7 +41,8 @@ function gostats_manage()
 <form name="form1" method="post" action="<?php echo $_SERVER['REQUEST_URI']; ?>">
 	<fieldset class="options">Enter your Site id<br/>
 	<input type="text" name="gostats_siteid" value="<?php echo stripslashes($gostats_siteid);?>">	
-        <fieldset class="options">Enter your GoStats server (monster, c3 or c4)<br/>
+        <fieldset class="options">Enter your GoStats server (c1, monster, c3 or c4).  If 
+		you do not see a server id in your summary url (login at <a href="http://gostats.com">      	        http://gostats.com</a> to see), try entering c1 as your server id.<br/>
         <input type="text" name="gostats_server" value="<?php echo stripslashes($gostats_server);?>">
 <?php
 
@@ -167,7 +168,7 @@ echo "&amp;t=1&amp;i=1&amp;z=\"
 style=\"border-width:0px;width:88px;height:31px\" alt=\"web counter\" 
 width=\"88\" height=\"31\" /></a><br />
 <a style=\"font-size: 9px\" href=\"http://gostats.com\" 
-title=\"GoStats web counter\">GoStats web counter</a></div></noscript>
+title=\"GoStats web counter\">web stats counter</a></div></noscript>
 <!-- GoStats.com -->";
 
 	}
