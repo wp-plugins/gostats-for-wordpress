@@ -3,7 +3,7 @@
 Plugin Name: GoStats 
 Plugin URI: http://gostats.com
 Description: Add web tracking to your blog in seconds. 
-Version: 1.2
+Version: 1.3
 Author: Richard Chmura
 Author URI: http://gostats.com/
 */
