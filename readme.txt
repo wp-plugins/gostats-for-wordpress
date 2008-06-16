@@ -1,7 +1,7 @@
 === GoStats for Wordpress ===
 Contributors: rchmura
 Donate link: http://gostats.com/
-Tags: web stats, hit counter, site stats, counter, stats
+Tags: web stats, hit counter, site stats, counter, stats, widget, plugin, sidebar, gostats
 Requires at least: 2.0.2
 Tested up to: 2.5.1
 Stable tag: 1.3
