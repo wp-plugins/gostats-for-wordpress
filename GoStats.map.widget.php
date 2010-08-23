@@ -4,7 +4,7 @@ Plugin Name: GoStats Map Widget
 Plugin URI: http://gostats.com
 Description: GoStats Display Map Widget for WordPress
 Author: Richard Chmura
-Version: 1
+Version: 1.3
 Author URI: http://richardchmura.com
 */
 
